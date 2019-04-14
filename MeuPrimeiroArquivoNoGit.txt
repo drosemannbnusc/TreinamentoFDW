@@ -1,1 +1,5 @@
 https://rogerdudler.github.io/git-guide/index.pt_BR.html
+http://gabsferreira.com/criando-e-enviando-arquivos-para-seu-repositorio-no-github/
+
+Participantes deste projeto:
+Douglas Rosemann - Edição 14/04/2019.
